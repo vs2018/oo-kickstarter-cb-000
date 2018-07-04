@@ -4,6 +4,6 @@ class Project
 
   
   def initialize(title)
-    @name = title
+    @title = title
   end
 end
